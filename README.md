@@ -7,7 +7,7 @@
 
 - I’m currently learning **React and TypeScript**
 
-- [Have a look at my resume on LinkedIn](https://bit.ly/3CndWu1)
+- [Have a look at my resume on LinkedIn](https://bit.ly/3HzFqRd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
