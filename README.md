@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonrgull" alt="jonrgull" /></a> </p>
 
-- I’m currently working on **Budget-Organizer**
+- I’m currently working on **Budget-Organizer** and a small TS project.
 
 - I’m currently learning **React and TypeScript**
 
