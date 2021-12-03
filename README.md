@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Jon!</h1>
 <h3 align="center">Software engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonrgull" alt="jonrgull" /></a> </p>
-
 - I’m currently working on **Budget-Organizer** and a small TS project.
 
 - I’m currently learning **React and TypeScript**
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonrgull&show_icons=true&locale=en&layout=compact" alt="jonrgull" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonrgull&show_icons=true&locale=en" alt="jonrgull" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonrgull&" alt="jonrgull" /></p>
