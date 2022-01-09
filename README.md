@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jon!</h1>
 <h3 align="center">Software engineer</h3>
 
-- I’m currently working on **Budget-Organizer** and a small TS project.
+- I’m currently working on my own portfolio and refactoring Pokemon-Selector.
 
 - I’m currently learning **React and TypeScript**
 
