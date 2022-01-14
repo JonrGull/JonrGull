@@ -5,7 +5,7 @@
 
 - I’m currently learning **React and TypeScript**
 
--  <a href="https://www.linkedin.com/in/jon-gull/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACHn66QB9OJGc8obNnPJoNqeiHC3mA3dGk4,1635477427097)/" target="_blank" rel="noopener noreferrer">Have a look at my resume on LinkedIn.</a>
+-  <a href="https://www.linkedin.com/in/jon-gull/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACHn66QB9OJGc8obNnPJoNqeiHC3mA3dGk4,1635479688038)/" target="_blank" rel="noopener noreferrer">Have a look at my resume on LinkedIn.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
