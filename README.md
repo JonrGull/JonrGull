@@ -5,8 +5,6 @@
 
 - I’m currently learning **React and TypeScript**
 
--  <a href="https://www.linkedin.com/in/jon-gull/overlay/1635481634174/single-media-viewer/" target="_blank" rel="noopener noreferrer">Have a look at my resume on LinkedIn.</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jon-gull/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jon-gull/" height="30" width="40" /></a>
