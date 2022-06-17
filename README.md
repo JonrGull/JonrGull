@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 I'm currently working on my own portfolio.
 
 I'm studying to improve my knowledge of TypeScript and React.
