@@ -1,5 +1,9 @@
 # About Me :
 
+### Hi I'm Jon!
+
+Just doing my best to keep up in this tech world.
+
 I'm currently working on my own portfolio.
 
 I'm studying to improve my knowledge of TypeScript and React.
