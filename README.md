@@ -4,7 +4,7 @@
 
 Just doing my best to keep up in this tech world.
 
-I'm currently working on my own portfolio and PlanOut!
+I'm currently working on Mindset!
 
 I'm studying to improve my knowledge of TypeScript and React.
 
