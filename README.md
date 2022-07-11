@@ -1,6 +1,4 @@
-# About Me :
-
-### Hi I'm Jon!
+## Hi, I'm Jon!
 
 Just doing my best to keep up in this tech world.
 
