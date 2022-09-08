@@ -2,7 +2,7 @@
 
 Just doing my best to keep up in this tech world.
 
-I'm currently working on fixing up Convertium and frontend masters!
+I'm currently working on fixing up Convertium and frontend mentor!
 
 I'm studying to improve my knowledge of TypeScript and React.
 
