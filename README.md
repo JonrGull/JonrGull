@@ -1,8 +1,6 @@
 ## Hi, I'm Jon!
 
-Just doing my best to keep up in this tech world.
-
-I'm currently working on fixing up Convertium and frontend mentor!
+I'm currently spending most of my time volunteering as a fullstack developer for [Mamoru](https://www.mamoru.earth/). Please check it out! 
 
 I'm studying to improve my knowledge of TypeScript and React.
 
