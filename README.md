@@ -1,6 +1,6 @@
 ## Hi, I'm Jon!
 
-I'm currently spending most of my time volunteering as a fullstack developer for [Mamoru](https://www.mamoru.earth/). Please check it out! 
+I'm currently working but I also spend some time volunteering as a fullstack developer for [Mamoru](https://www.mamoru.earth/). Please check it out! 
 
 I'm studying to improve my knowledge of TypeScript and React.
 
