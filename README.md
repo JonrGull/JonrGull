@@ -1,8 +1,8 @@
 ## Hi, I'm Jon!
 
-I'm currently working but I also spend some time volunteering as a fullstack developer for [Mamoru](https://www.mamoru.earth/). Please check it out! 
+I'm currently looking for a new opportunity! Please feel free to get in contact with me via LinkedIn. I also spend some time freelancing as a fullstack developer for [Sustainability Page](https://sustainabilitypage.com/). Please check it out! 
 
-I'm studying to improve my knowledge of TypeScript and React.
+I'm studying to improve my knowledge of TypeScript, React, DevOps, and backend methodologies.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jon-gull/) 
